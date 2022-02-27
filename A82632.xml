@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons in Parliament assembled, concerning a personall treaty with the Kings Majesty, and the establishment of a true and wel-grounded peace in the Kingdoms of England, Scotland, and Ireland. Also, certain propositions from the revolted ships to the Duke of York, touching their coming with him into England, and his Highnesses answer thereunto. Likewise, the last intelligence from Colchester, concerning the proceedings of the Lord Fairfax, and the storming the town. Together, wiht the storming of Wamour Castle in Kent, and exceeding good news from Ireland, of the proceedings of the Lord Inchiquene.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82632</idno>
+            <idno type="STC">Wing E1359</idno>
+            <idno type="STC">Thomason E450_23</idno>
+            <idno type="EEBO-CITATION">99864588</idno>
+            <idno type="PROQUEST">99864588</idno>
+            <idno type="VID">161911</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161911)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E450[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons in Parliament assembled, concerning a personall treaty with the Kings Majesty, and the establishment of a true and wel-grounded peace in the Kingdoms of England, Scotland, and Ireland. Also, certain propositions from the revolted ships to the Duke of York, touching their coming with him into England, and his Highnesses answer thereunto. Likewise, the last intelligence from Colchester, concerning the proceedings of the Lord Fairfax, and the storming the town. Together, wiht the storming of Wamour Castle in Kent, and exceeding good news from Ireland, of the proceedings of the Lord Inchiquene.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.J.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:161911:2"/>
+            <!-- PDF PAGE 49 -->
+            <p>
+               <figure>
+                  <figDesc>portrait of King Charles I</figDesc>
+               </figure>
+            </p>
+            <p>
+               <hi>Charles by the Grace of God of England, Scotland, France, and Ireland KING,</hi> Defender of the Faith, &amp;c,</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:161911:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <p>A DECLARATION OF THE Lords and Commons IN PARLIAMENT aſſembled, concerning a perſonall Treaty with the Kings Ma<g ref="char:EOLhyphen"/>jeſty, and the eſtabliſhment of a true and wel-grounded p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace in the Kingdoms of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>ALSO, Certain propoſitions from the Revolted Ships to the Duke of <hi>York,</hi> touching their coming with him into <hi>England,</hi> and his Highneſſes Anſwer thereunto.</p>
+            <p>LIKEWISE, The laſt Intelligence from COLCHESTER, concerning the proceedings of the Lord <hi>Fair fax,</hi> and the ſtorming the Town.</p>
+            <p>TOGETHER, With the ſtorming of Wamour Caſtle in <hi>Kent,</hi> and exceeding go<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d newes from <hi>Ireland,</hi> of the pro<g ref="char:EOLhyphen"/>ceedings of the Lord <hi>Inchique<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne.</hi>
+            </p>
+            <p>
+               <date>
+                  <add>July. 3<hi rend="sup">d</hi>
+                  </add>
+               </date> LONDON. Printed for <hi>J. J.</hi> 1648.</p>
+            <pb facs="tcp:161911:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_declaration">
+            <pb facs="tcp:161911:3"/>
+            <!-- PDF PAGE 51 -->
+            <pb n="1" facs="tcp:161911:3"/>
+            <!-- PDF PAGE 51 -->
+            <head>A Declaration of the Lords and Commons, concerning a per<g ref="char:EOLhyphen"/>ſonall Treaty with the <hi>Kings Majeſty.</hi>
+            </head>
+            <p>THe Houſe of Commons take notice of the affectionate acknowledgments which the City expreſſeth of the Hou<g ref="char:EOLhyphen"/>ſes Conceſſions upon their former Pe<g ref="char:EOLhyphen"/>titions, and of their Chriſtian and pre<g ref="char:EOLunhyphen"/>ſent deſires of a ſafe and wel-grounded peace accor<g ref="char:EOLhyphen"/>ding to the Covenant, and of that meanes which they propoſe in order thereunto of a perſonall Trea<g ref="char:EOLhyphen"/>ty. In which as in the other particulars of your Peti<g ref="char:EOLhyphen"/>tion, the Houſe eſpecially obſerves the confidence &amp; truſt which the City repoſes in them, in leaving the conſideration of their peace, and ſecurity of their wiſdom and care. To all which, the Houſe hath com<g ref="char:EOLhyphen"/>manded me to give you this Anſwer, That they have the ſame fellow feeling with the Citie and Kingdom of their ſufferings by Warre, and the ſame deſires with them to attain to a ſafe and welgrounded peace.
+<pb n="2" facs="tcp:161911:4"/>
+               <!-- PDF PAGE 52 -->They have for that end ſpent a great part of this laſt month in Conſidera<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions of Peace, and have made ſome progreſs therein: And for the more ſpeedy diſpatc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of what fur<g ref="char:EOLhyphen"/>ther remains to be done, the Houſes have appointed a Committee to conſider what the King hath offered, and what is further to be offered to the King, for His ſatis<g ref="char:EOLhyphen"/>faction for ſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling of a-ſpeedy and wel-grounded Peac<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; and to conſider of time, place, and <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther circumſtances for con<g ref="char:EOLhyphen"/>veniency of Addreſs to be made to His Maj. and they doubt not but what they have done, and ſpeedily ſhall do here<g ref="char:EOLhyphen"/>in, will be fully ſatisfactory to the City of <hi>London,</hi> and to all others that d<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſire to ſee the troubles of this Kingdom en<g ref="char:EOLhyphen"/>ded in a ſafe and juſt Peace. And for your good aff<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions to the Parl. and Kingdom, manifeſted by your Actions in the late War, and in your preſent Petition for a ſafe and welgrounded Peace, the Houſe hath commanded me to give you thanks.</p>
+            <closer>
+               <signed>H. Elſyng, Cler. Parl. D. Com.</signed>
+            </closer>
+            <postscript>
+               <head>A Liſt of the names of the Committee of Lords and Com<g ref="char:EOLhyphen"/>mons choſen by both Houſes of Parliament, about the perfecting the buſineſſe of Treaty with the <hi>King,</hi> and ſetting the peace of the <hi>Kingdom.</hi>
+               </head>
+               <p>Piers, Earl <hi>Northumb<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rland.</hi> E. <hi>Kent.</hi> E <hi>Rutland.</hi> E <hi>Lin<g ref="char:EOLhyphen"/>coln</hi> E. <hi>Suffolk.</hi> E. <hi>Stamford.</hi> Lord <hi>Ba<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tlet.</hi> L <hi>North.</hi> L. <hi>Hunſ<g ref="char:EOLhyphen"/>doun.</hi> L. <hi>Harbert.</hi> Comm<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs, Sir <hi>Walter Earle.</hi> Sir <hi>Har<g ref="char:EOLhyphen"/>bottle Grimſton.</hi> Sir <hi>Iohn Potts.</hi> Sir <hi>William Lewis.</hi> Sir <hi>Richard Onſlow.</hi> Sir <hi>Gilbert Gerhard.</hi> Sir <hi>Iames Harrington.</hi> Sir <hi>Iohn Burgin.</hi> Sir <hi>I. Eulin</hi> of <hi>Wilts.</hi> Sir <hi>Martin Lumbley.</hi> Sir <hi>Robert Harlow.</hi> Mr. <hi>Prideux.</hi> Mr. <hi>Swy<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fen.</hi> Mr. <hi>Maynord.</hi> Mr. <hi>Wheeler.</hi> Mr. <hi>Hungerford.</hi> Mr. <hi>Perepoint.</hi> Mr. <hi>Liſle.</hi> And 2. more of the Houſe of Commons.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:161911:4"/>
+            <!-- PDF PAGE 52 -->
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>AS was certefyed this morning, a party of the Enemies ſallyed forth at the South gate, and approched neer our horſe Guard, but were quickly beaten back, and purſued by our party to the turn pike, where they kep<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Court of Guard, who uppon her approach gave fire and fled away. So we entred this Guard, took ſuch armes as were left there. This Guard of theirs was kept neer the Alme<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-houſes, at the enterance of the Subburbs of the town in this action three of the enemy were killed, and many wounded. We alſo took 12. priſoners, &amp; 15 or 16 horſe with arms, two horſes of ours were killed, and one man cut in the head, but the wound not mortall, not any one of the reſt of our men received any hurt at all. Proviſions begin to grow ſcarce in the town, eſpecially bread, and how they are provid<g ref="char:EOLhyphen"/>ed with corn I know not, but I am certain they are ill provided of mills to grind it if they have any. For this day we have fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and burnt down their Wind<g ref="char:EOLhyphen"/>mils to the Ground, diverſe ſouldiers ſteales away from the enemy daily, and come into us, eſpecially ſince the Lord Generall ſent in a Letter, proff<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring conditions to ſuch as ſhould come to him, and unto all, if they would embrace and yeeld upon the Town, which conditions were. 1. That within 24. hours after the receipt thereof, the officers laying down their armes ſhould have p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſes to travell beyond Sea. &amp;c. 2. That the common ſouldiers, and all men of that ranck, ſhall have liberty to depart to their own homes, ſubmitting to the authority of Parliament. 3. That the Inhabitants of the towne ſhall be free from plunder and violence.</p>
+            <p>
+               <pb n="4" facs="tcp:161911:5"/>
+               <!-- PDF PAGE 53 -->
+Theſe conditions proffered not being accepted of, the Lord Generall is reſolved not to offer ſo good againe to thoſe which are the chief in action amongſt the enemy, our army is in a very good condition, and full of reſolution, and although the Gen. is very unwilling to ſtorme the town (for that as much as in him is, he would avoid the ſhedding of bloud.</p>
+            <p>About four of the clock this morning another party of the Enemies forces ſallyed out of the town upon the Suffolk forces an the North Eaſt ſide, but Col. <hi>Whaley</hi> joyning with them, charged them, killed two and put the reſt to a diſorderly retreat, took ten priſoners, and ſome very good horſes. This Evening another party of the enemy attempted to go out on Harwich road, to fech in proviſions, and were fal<g ref="char:EOLhyphen"/>len upon by a party of ours which routed them and took divers priſoners, one of which that was wound<g ref="char:EOLhyphen"/>ed ſaith, that they begin to be exceedingly ſtraight<g ref="char:EOLhyphen"/>ned in the town for proviſions, eſpetially for the houſe meat: three of their Wind-mills are burnt downe, they have two Watermils which we are cut<g ref="char:EOLhyphen"/>ing off, and have ſcaling Ladders ready to ſtorm, but the morter piece is not yet come up.</p>
+            <p>Yeſterday morning 3 troopers came out of the town with horſe and armes, and proffered their ſer<g ref="char:EOLhyphen"/>vice to the General, they report there are in the town about 600. horſe, and 3500, foot and about three of the clock in the afternoon, Sir <hi>Charles Lucas</hi> drew out 8. companies of foot, and 4 troops of horſe, cloſe under their workes, whereupon a party of ours were commanded out to charge them, and after ſome ex<g ref="char:EOLhyphen"/>chang of ſhot, our forces beat them in, ſet their guard
+<pb n="5" facs="tcp:161911:5"/>
+               <!-- PDF PAGE 53 -->houſe on fire, killed two, and took ſome priſoners.</p>
+            <closer>
+               <dateline>From the Leaguer before <hi>Colcheſter,</hi> 
+                  <date>June 28. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="propositions">
+            <head>Certain Propoſitions of the Revolted Ships to his Highneſſe the Duke of <hi>York.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>For the preſent all the newes I can ſend you is this, that his Highneſſe the Duke of</hi> York <hi>is here in theſe parts, and that the revolted Ships are coming into</hi> Go<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith, <hi>and have ſent</hi> 2. <hi>propoſitions to his Highneſſe concerning their proceedings for His</hi> Majeſty <hi>(as they pretend) which are as is certified thus.</hi> 1. <hi>To come aboard there to give them countenance in their Deſign which they are now engaged in.</hi> 2. <hi>To ſend them in proviſion neceſſary for the fur<g ref="char:EOLhyphen"/>niſhing of their Ships, and for the better maintenance of that deſign. But his Highneſſe denyed to countenance the buſineſſe in the leaſt.</hi>
+            </p>
+            <closer>
+               <dateline>From the Hague <date>June 11. 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Letters from <hi>Colcheſter</hi> ſay thus, that his Excel<g ref="char:EOLhyphen"/>lency goes on very gallantly, and intends very ſpee<g ref="char:EOLhyphen"/>dily to ſtorme the Town, and not to make many dayes more, yet the enemy have made c<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtain ſallies forth; but with much loſſe on the enemies ſide, 8. of them were taken priſoners of the Countrey men, and 2. Prentices by the Army, and it is not to be doubted but to ſhort time the City will be reduced.</p>
+               <p>Some talk of the ſtorming of <hi>Wamor</hi> Caſtle, but as yet no letters come concerning the ſ<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>There is very great diſcord about the proceedings
+<pb n="6" facs="tcp:161911:6"/>
+                  <!-- PDF PAGE 54 -->of the Rebels in <hi>IRELAND,</hi> and ſome blood ſpilt, <hi>Neale, Mache<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ma</hi> c<gap reason="illegible" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>ent of <hi>Owen Roes</hi> party, is ſore wounded if not dead, The <hi>Popes</hi> Nuntio excom<g ref="char:EOLhyphen"/>municated all the ſupream Coun<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ells at <hi>Kilkenny,</hi> that had a hand in the Ceſſation with <hi>Inchiqueene.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>THere are ſom<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forces here in</hi> Scot<g ref="char:EOLhyphen"/>land, <hi>which are already in a poſture to march, and are intended to joyne with Sir</hi> Marmaduke Langdale; <hi>but we fear not but they will v<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry ſpeedily be preven<g ref="char:EOLhyphen"/>ted, by reaſon of the Earl of</hi> Argile, <hi>who is in a great forwardneſſe to give them battaile, and hath had many Skirmiſhes with them, alſo divers priſoners are ta<g ref="char:EOLhyphen"/>ken by him from theſe forces under Duke</hi> Hamilton, <hi>which hereafter J ſhall give you a more full Relation. So for the preſent J remain</hi>
+            </p>
+            <closer>
+               <dateline>From Edenburgh <date>June the 18. 1648.</date>
+               </dateline>
+               <signed>Your humble Servant <hi>T. B.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
